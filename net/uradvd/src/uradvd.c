@@ -64,7 +64,7 @@
 #define AdvValidLifetime 86400u
 #define AdvPreferredLifetime 14400u
 #define AdvDefaultLifetime 0u
-#define AdvCurHopLimit 64u
+#define AdvCurHopLimit 255u
 #define AdvRDNSSLifetime 1200u
 
 #define MinRtrAdvInterval 200u
